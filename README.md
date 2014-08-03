@@ -1,5 +1,3 @@
 yk
 ==
 
-yk
-  http
